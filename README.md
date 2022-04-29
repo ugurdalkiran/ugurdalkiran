@@ -12,8 +12,7 @@ I started my software adventure by publishing my personal website in December 20
 
 <a href="https://www.twitter.com/ugurdalkiran" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ugurdalkiran?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/ugurdalkiran" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ugurdalkiran?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+/></a>
 
 ### Skills
 
