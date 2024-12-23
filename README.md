@@ -64,6 +64,7 @@ src="https://img.shields.io/twitter/follow/ugurdalkiran?logo=twitter&style=for-t
 <a href="https://apps.apple.com/app/id6736484132" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/v82FGGtGPa_AYgsBbySg77-ob1EfG0V-NrdQqtXdEotThChiV3SUjtQmiGrObP22gLo=w240-h480-rw" width="64" height="64" /></a>
 <a href="https://apps.apple.com/app/id6737631694" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/XR5EQFuu34riw2hGF4QQggh7-vrG7xhjoFOV_NKe6Ooi8x5iH9Zbg9-rCWSZTXEYDUlS=w240-h480-rw" width="64" height="64" /></a>
 <a href="https://apps.apple.com/app/id6738623719" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/quU1AkSs0XR9i8oA2868eA0AsK8o-GNM4rZX_7oNNv9iOIht4d2Ykt2IoFp9yCvqspWd=s256-rw" width="64" height="64" /></a>
+<a href="https://apps.apple.com/app/id6739581584" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/GU2c2AQ82qUJEs7hCjE7QtvsukKoQcEVEPC2XCNhHQRrWU9PLhd0CM-2TytQlF1by2nA=w240-h480-rw" width="64" height="64" /></a>
 </p>
 
 ### Socials
